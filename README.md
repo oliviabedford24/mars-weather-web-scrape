@@ -1,4 +1,4 @@
-# mars-weather-challenge
+# mars-weather-web scrape
 
 This is the Module 11 Challenge for the Rice University Data Analytics & Visualization bootcamp. In this challenge, we used our html reading and parsing knowledge to examine two websites, each containing information about the planet Mars.
 
