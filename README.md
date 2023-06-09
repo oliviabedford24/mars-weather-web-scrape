@@ -10,4 +10,4 @@ This code was written in VS Code's Jupyter notebooks. For best results, use VS C
 
 The code contained in this repository is my work and mine alone. I received input and advice from Rice University's instructors and tutors, but the work itself is all mine.
 
-Thanks for reading, bestie! :)
+Thank you!
